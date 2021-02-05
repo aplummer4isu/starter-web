@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Adam Plummer 	Adam.T.Plummer@EMCIns.com
 
 # THANKS
 
